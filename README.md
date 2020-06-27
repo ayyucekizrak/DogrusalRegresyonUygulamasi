@@ -27,6 +27,7 @@ Elinizdeki en basitinden iki değişkenli verinin bir değişkeninin değerini d
 ---
 
 ### Bu çalışmada da tam olarak böyle bir örneği adım adım gerçekleştireceğiz.
+:dizzy_face: **Google Colab Not Defterinde Aç**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/DogrusalRegresyonUygulamasi/blob/master/Doğrusal%20Regresyon%20Çalışma%20Dosyası.ipynb) 
 
 **Çalışma için seçtiğimiz veri ve problem:** Doğrusal regresyon örneklemesinde çok kullanılan bir veri kümesini kullanacağız. Gıda taşımacılığı yapan bir kamyonun kâr kestirimini yapmaya çalışacağız. 
 
